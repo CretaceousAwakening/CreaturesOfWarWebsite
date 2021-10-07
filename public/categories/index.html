@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <base href="/">
+    <title>Categories </title>
+    <link rel="canonical" href="/categories/">
+
+    <link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+
+    
+    
+
+    
+        
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/sass/styles.min.349ebd313fe1ce0a8598b6577b98a42e067dc275268654e998528869758e5185.css">
+
+    
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PQLJW53C5H"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+       
+        gtag('config', 'G-PQLJW53C5H');
+    </script>
+
+</head>
+<body>
+    
+</body>
+</html>
+
+<body>
+    <header aria-roledescription="header" id="header--list">
+    <nav class="navigation border-b">
+        <div class="container">
+            <div class="flex-row between">
+                <a href="/" class="text-2xl hidden-for-mobile">Home</a>
+                <a href="/" class="text-4xl">Devlog</a>
+                <a href="/press-kit" class="text-2xl hidden-for-mobile">Press Kit</a>
+                <div class="navigation__mobile hidden-for-desktop" x-data="{ open: false }">
+                    <button @click="open = !open" class="flex-col center">
+                        <img src="/img/hamburger.svg" alt="Mobile menu icon" class="hamburger">
+                    </button>
+                    <div class="navigation__overlay" x-show="open" @click.away="open = false">
+                        <button @click="open = !open" class="flex-col center">
+                            <img src="/img/x.svg" alt="Mobile menu close icon" class="close" x-show="open">
+                        </button>
+                        <div class="navigation__menu"> 
+                            <a href="/" class="text-4xl">Home</a>
+                            <a href="/devlog" class="text-4xl">Devlog</a>
+                            <a href="/press-kit" class="text-4xl">Press Kit</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <main aria-roledescription="main">
+
+        
+        <section id="posts" class="section py-120">
+            <div class="container">
+                
+            </div>
+        </section>
+
+    </main>
+    
+</body>
+
+

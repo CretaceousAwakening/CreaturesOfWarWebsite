@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creatures of War</title>
+    <link>/</link>
+    <description>Recent content on Creatures of War</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy-policy/</guid>
+      <description>Briefing This privacy policy informs you about the gathering, currations, and intent of how Chaos Entertainment, email: Cretaceousawakening@gmail.com, wants to handle your private data.
+This Privacy Policy is in effect when you opt-in to the Creatures Of War newsletter via the (Field Operator Program), travel to the Creatures Of War website (www.creatureofwar.com), or while actually playing Creatures Of War.
+You will always be able to feel protected when you opt-in to giving us your private information.</description>
+    </item>
+    
+    <item>
+      <title>Devlog #1</title>
+      <link>/devlog/devlog-1/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/devlog/devlog-1/</guid>
+      <description>Creatures Of War has been announced! When developing this game I wanted to focus on tightly controlled tense combat situations requiring precise dodge mechanics, speed burst / grenade usage optimizations for creating space, and of course high powered weaponry that can bring down even the toughest of enemies.
+When I thought to myself about creating a 2D combat system I knew that the gameplay was the most important aspect of the game’s development process.</description>
+    </item>
+    
+    <item>
+      <title>Press Kit</title>
+      <link>/press-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/press-kit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
